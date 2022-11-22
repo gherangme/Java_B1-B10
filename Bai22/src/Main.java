@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        System.out.println("Nhap vao mot chuoi palindromic");
+        System.out.println("Nhap vao mot chuoi palindrome");
         String str = scan.nextLine();
         char[] ch = str.toCharArray();
 
