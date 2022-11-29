@@ -55,7 +55,7 @@ public class Main {
         if(x2<10000) {
             if (x1 == x2) {
                 System.out.println("2 kangaroo gặp nhau tại x1 = x2 = "+x1);
-            } else {
+            }else {
                 do {
                     x1 += v1;
                     x2 += v2;
